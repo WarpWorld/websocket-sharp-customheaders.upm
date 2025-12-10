@@ -1,0 +1,8 @@
+{
+  "name": "com.qidong5566.websocket-sharp-customheaders",
+  "version": "1.0.3",
+  "displayName": "WebSocketSharp CustomHeaders",
+  "description": "UPM wrapper for websocket-sharp-customheaders library",
+  "unity": "6000.2",
+  "author": { "name": "qidong5566" }
+}
