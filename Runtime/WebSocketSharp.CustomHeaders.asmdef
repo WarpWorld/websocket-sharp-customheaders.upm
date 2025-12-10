@@ -1,0 +1,12 @@
+{
+  "name": "WebSocketSharp.CustomHeaders",
+  "references": [ "websocket-sharp-customheaders.dll" ],
+  "includePlatforms": [
+    "Editor",
+    "Standalone",
+    "iOS",
+    "Android"
+  ],
+  "overrideReferences": false,
+  "autoReferenced": true
+}
